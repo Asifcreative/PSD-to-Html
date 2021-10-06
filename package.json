@@ -1,0 +1,16 @@
+{
+    "name": "PSD-to-Html",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "deploy": "gh-pages -d dist"
+    },
+    "Keyword": [],
+    "homepage": "https://asifcreative.github.io/PSD-to-Html/",
+    "author": "Asif Javed",
+    "lisence": "ISC",
+    "dependencies": {
+      "gh-pages": "^3.2.3"
+    }
+  }
